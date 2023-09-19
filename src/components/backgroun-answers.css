@@ -1,0 +1,11 @@
+.background-not-answered {
+  background-color: white;
+}
+
+.background-wrong-answer {
+  background-color: #FF8BA0;
+}
+
+.background-right-answer {
+  background-color: #90ee90;
+}
