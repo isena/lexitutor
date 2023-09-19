@@ -1,6 +1,6 @@
 # lexitutor
 
-This is current WIP PoC.
+This is a WIP PoC.
 
 
 ## Development 
