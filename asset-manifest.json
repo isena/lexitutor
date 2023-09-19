@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lexitutor/static/css/main.f8146f33.css",
+    "main.js": "/lexitutor/static/js/main.5417eaed.js",
+    "index.html": "/lexitutor/index.html",
+    "main.f8146f33.css.map": "/lexitutor/static/css/main.f8146f33.css.map",
+    "main.5417eaed.js.map": "/lexitutor/static/js/main.5417eaed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8146f33.css",
+    "static/js/main.5417eaed.js"
+  ]
+}
